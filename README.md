@@ -36,7 +36,7 @@ You can use these datasets to benchmark algorithms for scene-level classificatio
 ---
 
 ## 🧭 Citation
-If you use these datasets, please cite the corresponding papers or repositories as indicated in their official pages.
+If you use these datasets, please cite the corresponding papers.
 
 ---
 
