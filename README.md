@@ -5,7 +5,7 @@
 
 ## 📚 Overview
 This repository collects **Remote Sensing Scene Classification (RSSC)** datasets for both **Single-Label** and **Multi-Label** learning tasks.  
-You can use these datasets to benchmark algorithms for scene understanding, land-cover classification, and semantic interpretation in remote sensing imagery.
+You can use these datasets to benchmark algorithms for scene-level classification.
 
 ---
 
@@ -42,7 +42,7 @@ If you use these datasets, please cite the corresponding papers or repositories 
 
 ## 🪄 Author
 **RSSC Datasets Repository Maintainer**  
-📧 *[your email or GitHub link here]*
+📧 *https://github.com/CumtStudentZhanghua/MultiLabel_Datasets*
 
 
 
