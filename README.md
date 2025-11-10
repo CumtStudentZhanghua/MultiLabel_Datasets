@@ -1,11 +1,11 @@
 # 🌍 RSSC_Datasets
-## This is a Remote Sensing Scene Classification Datasets Repository
+## Remote Sensing Scene Classification (RSSC) Datasets Repository
 
 ---
 
 ## 📚 Overview
-This repository collects **Remote Sensing Scene Classification (RSSC)** datasets for both **Single-Label** and **Multi-Label** learning tasks.  
-You can use these datasets to benchmark algorithms for scene-level classification.
+This repository collects **Remote Sensing Scene Classification (RSSC)** datasets for both **Single-Label** and **Multi-Label** tasks.  
+These datasets can be used to benchmark scene-level classification algorithms.
 
 ---
 
@@ -18,20 +18,21 @@ You can use these datasets to benchmark algorithms for scene-level classificatio
 ---
 
 ## 🌤️ Single-Label Datasets
-| No. | Dataset | Link | Description |
-|:---:|:---------|:------|:-------------|
-| 1️⃣ | **UCM** | [UCM Dataset](https://bigearth.eu/datasets) | High-resolution aerial images from UC Merced. |
-| 2️⃣ | **AID** | [AID Dataset](https://captain-whu.github.io/AID/) | A large-scale aerial image dataset for scene classification. |
-| 3️⃣ | **NWPU** | [NWPU-RESISC45](https://gcheng-nwpu.github.io/#Datasets) | One of the largest scene classification datasets with 45 categories. |
+| No. | Dataset | Link | Image Size | Categories | Number of Images |
+|:---:|:---------|:------|:----------:|:----------:|:----------------:|
+| 1️⃣ | **UCM** | [UCM Dataset](https://bigearth.eu/datasets) | 256×256 | 21 | 2,100 |
+| 2️⃣ | **AID** | [AID Dataset](https://captain-whu.github.io/AID/) | 600×600 | 30 | 10,000 |
+| 3️⃣ | **NWPU** | [NWPU-RESISC45](https://gcheng-nwpu.github.io/#Datasets) | 256×256 | 45 | 31,500 |
 
 ---
 
 ## 🌈 Multi-Label Datasets
-| No. | Dataset | Link | Description |
-|:---:|:---------|:------|:-------------|
-| 1️⃣ | **UCM_ML** | [UCM-MultiLabel](https://bigearth.eu/datasets) | Multi-label version of UCM dataset with multiple semantic tags per image. |
-| 2️⃣ | **AID_ML** | [AID-MultiLabel](https://github.com/Hua-YS/AID-Multilabel-Dataset) | Annotated version of AID with multiple land-cover labels. |
-| 3️⃣ | **DFC15_ML** | [DFC15-MultiLabel](https://github.com/Hua-YS/DFC15-Multilabel-Dataset) | Dataset derived from IEEE Data Fusion Contest 2015 with multilabel annotations. |
+| No. | Dataset | Link | Image Size | Categories | Number of Images |
+|:---:|:---------|:------|:----------:|:----------:|:----------------:|
+| 1️⃣ | **UCM_ML** | [UCM-MultiLabel](https://bigearth.eu/datasets) | 256×256 | 17 | 2,100 |
+| 2️⃣ | **AID_ML** | [AID-MultiLabel](https://github.com/Hua-YS/AID-Multilabel-Dataset) | 600×600 | 17 | 3,000 |
+| 3️⃣ | **DFC15_ML** | [DFC15-MultiLabel](https://github.com/Hua-YS/DFC15-Multilabel-Dataset) | 600×600 | 8 | 3,342 |
+| 4️⃣ | **MLRSNet** | [MLRSNet-MultiLabel](https://github.com/cugbrs/MLRSNet) | 256×256 | 60 | 109,161 |
 
 ---
 
@@ -43,7 +44,3 @@ If you use these datasets, please cite the corresponding papers.
 ## 🪄 Author
 **RSSC Datasets Repository Maintainer**  
 📧 *https://github.com/CumtStudentZhanghua/MultiLabel_Datasets*
-
-
-
-
