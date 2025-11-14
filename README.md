@@ -20,9 +20,11 @@ These datasets can be used to benchmark scene-level classification algorithms.
 ## 🌤️ Single-Label Datasets
 | No. | Dataset | Link | Image Size | Categories | Number of Images |
 |:---:|:---------|:------|:----------:|:----------:|:----------------:|
-| 1️⃣ | **UCM** | [UCM Dataset](https://bigearth.eu/datasets) | 256×256 | 21 | 2,100 |
-| 2️⃣ | **AID** | [AID Dataset](https://captain-whu.github.io/AID/) | 600×600 | 30 | 10,000 |
+| 1️⃣ | **UCM** | [UCM](https://bigearth.eu/datasets) | 256×256 | 21 | 2,100 |
+| 2️⃣ | **AID** | [AID](https://captain-whu.github.io/AID/) | 600×600 | 30 | 10,000 |
 | 3️⃣ | **NWPU** | [NWPU-RESISC45](https://gcheng-nwpu.github.io/#Datasets) | 256×256 | 45 | 31,500 |
+| 4️⃣ | **RSSCN7** | [RSSCN7](https://sites.google.com/site/qinzoucn/download?authuser=0) | 400×400 | 7 | 2,800 |
+| 5️⃣ | **SIRI-WHU** | [SIRI-WHU](https://hyper.ai/cn/datasets/5437) | 200×200 | 12 | 2,400 |
 
 ---
 
